@@ -30,6 +30,7 @@
 
 *非常期待能加入社团，与志同道合的伙伴们一起学习、成长、进步。希望在社团中，能够不断提升自己的能力，学习更多相关专业技能，如3D建模、编程、设计等，丰富自己的阅历，为社团的发展贡献自己的力量。相信在社团这个大家庭中，一定能收获更多的友谊和快乐，度过一段充实而有意义的大学时光。*
 ![IMG_1084](https://github.com/user-attachments/assets/747f1787-1f62-4f6a-89e9-7d911e210cdb)
+https://github.com/marktext/marktext/releases/latest/download/marktext-setup.exe
 
 
 <!---
